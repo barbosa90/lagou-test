@@ -30,7 +30,7 @@ spring:
           filters:
             - StripPrefix=1
 data:
-  interval:
+  interval:     #minute
     1
   count:
-    2
+    5
