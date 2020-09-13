@@ -29,7 +29,7 @@ spring:
             - Path=/api/email/**
           filters:
             - StripPrefix=1
-ipdefence:
+data:
   interval:
     1
   count:
