@@ -33,4 +33,4 @@ data:
   interval:     #minute
     1
   count:
-    5
+    10
